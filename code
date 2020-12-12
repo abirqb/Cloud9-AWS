@@ -1,0 +1,14 @@
+# Clould9-AWS
+All the necessary things that helps me to step forward in Cloud9 IDE
+
+
+These are the commands that you need at the first time, write and run them to terminal.
+
+sudo service mysqld start
+sudo mysql_secure_installation
+
+To run MySQL Shell:
+direct command=>  mysql -uroot -p
+
+To stop the MySQL Service:
+direct command=> sudo service mysqld stop
