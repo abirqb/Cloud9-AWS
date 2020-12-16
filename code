@@ -12,3 +12,4 @@ direct command=>  mysql -uroot -p
 
 To stop the MySQL Service:
 direct command=> sudo service mysqld stop
+That's it!
